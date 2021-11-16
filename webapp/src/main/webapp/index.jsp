@@ -3,4 +3,4 @@
 <h2> Glad to see you here </h2>
 <h2> Koffi Training section for Devops </h2>
 <h2> May God stay with me on this recruitment starting today </h2>
-<h3> SUCCES </h3>
+<h3> SUCCESS </h3>
